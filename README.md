@@ -1,4 +1,4 @@
-# Ticket_managetment_software
+# Ticket_managetment_system
 ## tools
 + Qt
 + SQL Server
